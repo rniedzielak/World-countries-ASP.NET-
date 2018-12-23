@@ -1,5 +1,5 @@
 # World-countries-ASP.NET-
-A simple game in which you entering their names in Polish
+A simple game in which you entering names of countries in Polish
 
 Wyróżniono następujące katalogi:
 - Wyróżniono w odrębnym katalogu 3 strony (Zasady, stronę pożegnalną oraz tabelę z podsumowaniem wyników) w katalogu "Baza";
